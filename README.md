@@ -9,7 +9,7 @@ For Mini Project 3 in my Embedded Software course, I was tasked with refactoring
 - it's components have reasonable application to RTOS (acquiring & processing live data, shared data, coordinating peripherals)
 - and is well scoped for this RTOS exploration and has the necessary components to fulfill the project requirements.
 
-### [See demo video here!](!https://youtube.com/shorts/24WjEagzktA?feature=share)
+**[See demo video here!](!https://youtube.com/shorts/24WjEagzktA?feature=share)**
 
 ## RTOS System Architecture
 
